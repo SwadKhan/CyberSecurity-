@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Labex.md",
+                "file": "TryHackMe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Labex"
+              "title": "TryHackMe"
             }
           }
         ],
@@ -201,12 +201,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "ce949df095ffbdf7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -223,8 +234,9 @@
   },
   "active": "eeb8213f2004292c",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Screenshot 2025-09-26 100601.png",
     "Linux/Labex.md",
+    "TryHackMe.md",
     "CIsco.md",
     "Linux",
     "Research methodology.md",
