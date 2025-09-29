@@ -93,6 +93,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Research-Optimization using meta heuristic algorithm/Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft"
+            }
+          },
+          {
+            "id": "9028d7b245be6135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "CIsco.md",
                 "mode": "source",
                 "source": false
@@ -102,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -259,8 +273,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "48ea9bc709a7eae6",
+  "active": "9028d7b245be6135",
   "lastOpenFiles": [
+    "Research methodology.md",
+    "WhatsApp Image 2025-09-29 at 10.53.47_432c5e8d.jpg",
+    "CIsco.md",
+    "Research-Optimization using meta heuristic algorithm/Needs to know.md",
+    "Untitled.md",
+    "Research-Optimization using meta heuristic algorithm/Draft.md",
     "Screenshot 2025-09-27 222339.png",
     "OpenDSS basics.md",
     "Welcome.md",
@@ -269,11 +289,8 @@
     "Linux/Labex.md",
     "TryHackMe.md",
     "Screenshot 2025-09-26 100601.png",
-    "CIsco.md",
     "Linux",
-    "Research methodology.md",
     "Research-Optimization using meta heuristic algorithm/OpenDss.md",
-    "Research-Optimization using meta heuristic algorithm/Draft.md",
     "Introduction to Data Science-.md",
     "Research-Optimization using meta heuristic algorithm"
   ]
