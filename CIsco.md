@@ -104,7 +104,14 @@ Module 2(Assessment)-
 4. The AUX port on a Cisco device provided out-of-band connections over a telephone line.
 
 2.2.8 Check Your Understanding - IOS Navigation
-1. The privileged EXEC mode allows access to all commands. Higher level commands like global configuration mode and subconfiguration modes can only be reached from the privileged EXEC mode.  
+1. The privileged EXEC mode allows access to all commands. Higher level commands like global configuration mode and sub configuration modes can only be reached from the privileged EXEC mode.  
 2. Global configuration mode is identified by the **(config)#** prompt.  
 3. The **>** prompt after the device name identifies user EXEC mode.  
 4. To return from any prompt, all the way down to privileged EXEC mode, type the **end** command or by pressing the **CTRL+Z** keys simultaneously on the keyboard.
+
+2.4.8 Check Your Understanding - Basic Device Configuration
+1. The global configuration command to set the host name on a Cisco device is hostname. So, in this example the full command is Switch(config)# **hostname Sw-Floor-2**.  
+2. Securing access to the EXEC mode on a Cisco switch is accomplished with the enable secret command followed by the password. In this example the command is Switch(config)# **enable secret class.**  
+3. User EXEC mode access through the console port is enabled with the login command entered in line mode. For example: Switch(config-line)# **login**.  
+4. The **service password-encryption** command entered in global configuration mode will encrypt all plaintext passwords.  
+5. The command to set a banner stating "Keep out" that will be displayed when connection to a Cisco switch is Switch(config)# **banner motd $ Keep out $**
