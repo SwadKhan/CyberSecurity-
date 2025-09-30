@@ -169,11 +169,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6c124f354a21be97",
@@ -276,8 +278,8 @@
   "active": "9028d7b245be6135",
   "lastOpenFiles": [
     "Research methodology.md",
-    "WhatsApp Image 2025-09-29 at 10.53.47_432c5e8d.jpg",
     "CIsco.md",
+    "WhatsApp Image 2025-09-29 at 10.53.47_432c5e8d.jpg",
     "Research-Optimization using meta heuristic algorithm/Needs to know.md",
     "Untitled.md",
     "Research-Optimization using meta heuristic algorithm/Draft.md",

@@ -65,3 +65,46 @@ Congestion occurs when the demand for bandwidth exceeds the amount available. Ne
 4.Redundancy is an example a fault-tolerant network architecture*
 
 
+
+
+1.7.6 Cloud Computing
+
+#Cloud computing is one of the ways that we access and store data.
+For security, reliability, and fault tolerance, cloud providers often store data in distributed data centers. Instead of storing all the data of a person or an organization in one data center, it is stored in multiple data centers in different locations.
+
+There are four primary types of clouds: Public clouds, Private clouds, Hybrid clouds, and Community clouds,
+
+A Wireless Internet Service Provider (WISP) is an ISP that connects subscribers to a designated access point or hot spot using similar wireless technologies found in home wireless local area networks (WLANs). From the perspective of the home user, the setup is not much different than DSL or cable service. The main difference is that the connection from the home to the ISP is wireless instead of a physical cable.
+
+
+**1. Video communications is a good conferencing tool to use with others who are located elsewhere in your city, or even in another country.  
+2.BYOD feature describes using personal tools to access information and communicate across a business or campus network.  
+3.Cloud computing contains options such as Public, Private, Custom and Hybrid.  
+4.Powerline is being used when connecting a device to the network using an electrical outlet.  
+5.Wireless broadband uses the same cellular technology as a smartphone.**
+
+
+1.8.3 Check Your Understanding - Network Security
+Correct
+
+You have successfully identified the correct answers.
+
+1. A DoS attack slows down or crashes equipment and programs.
+2. A VPN creates a secure connection for remote workers.
+3. A firewall blocks unauthorized access to your network.
+4. A zero-day or zero-hour attack occurs on the first day that a vulnerability becomes known.
+5. A virus, worm, or Trojan horse is malicious code running on user devices.
+
+Module 2(Assessment)-
+
+2.1.6 Check Your Understanding - Cisco IOS Access
+1. Because a new switch would not have any initial configurations, it could only be configured through the console port.
+2. Connecting a computer to a Cisco device through the console port requires a special console cable.
+3. Both Telnet and SSH are in-band access methods that require an active network connection to the device.
+4. The AUX port on a Cisco device provided out-of-band connections over a telephone line.
+
+2.2.8 Check Your Understanding - IOS Navigation
+1. The privileged EXEC mode allows access to all commands. Higher level commands like global configuration mode and subconfiguration modes can only be reached from the privileged EXEC mode.  
+2. Global configuration mode is identified by the **(config)#** prompt.  
+3. The **>** prompt after the device name identifies user EXEC mode.  
+4. To return from any prompt, all the way down to privileged EXEC mode, type the **end** command or by pressing the **CTRL+Z** keys simultaneously on the keyboard.
