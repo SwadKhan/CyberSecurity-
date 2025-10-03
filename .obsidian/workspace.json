@@ -107,12 +107,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIsco.md",
+                "file": "Research methodology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIsco"
+              "title": "Research methodology"
             }
           }
         ],
@@ -169,8 +169,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,8 +276,8 @@
   },
   "active": "9028d7b245be6135",
   "lastOpenFiles": [
-    "Research methodology.md",
     "CIsco.md",
+    "Research methodology.md",
     "WhatsApp Image 2025-09-29 at 10.53.47_432c5e8d.jpg",
     "Research-Optimization using meta heuristic algorithm/Needs to know.md",
     "Untitled.md",
