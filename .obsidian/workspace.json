@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA_1/CIsco.md",
+                "file": "Research-Optimization using meta heuristic algorithm/Voltage vs TAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIsco"
+              "title": "Voltage vs TAP"
             }
           },
           {
@@ -244,14 +244,26 @@
   },
   "active": "29c5720a0af22b89",
   "lastOpenFiles": [
-    "CCNA_1/CIsco.md",
+    "Regulator_Tap_Positions.png",
+    "Research-Optimization using meta heuristic algorithm/Changes.md",
+    "Research-Optimization using meta heuristic algorithm/Voltage vs TAP.md",
+    "Figure_2_tap_positions.png",
+    "Figure_1_no_regulators.png",
+    "Figure_1.png",
+    "CCNA_1/CCNA1.md",
+    "Research-Optimization using meta heuristic algorithm/Test Code in vs code for 123 bus.md",
+    "Untitled 1",
     "Research-Optimization using meta heuristic algorithm/Draft.md",
+    "Intro to data_Science/9.10.2025.md",
+    "CCNA_1/CIsco.md",
+    "Intro to data_Science/Untitled 1",
+    "Untitled",
+    "Intro to data_Science",
     "Welcome.md",
     "Linux/Labex.md",
     "Research-Optimization using meta heuristic algorithm/OpenDss.md",
     "Module1-3(Basic network connectivity and communications).md",
     "Pasted image 20251008105659.png",
-    "CCNA_1/CCNA1.md",
     "CCNA_1",
     "ST_PL.md",
     "10.03.25.md",
