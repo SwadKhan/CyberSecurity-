@@ -21,98 +21,10 @@
             "id": "edfa64d60b5b4baf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIsco.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CIsco"
-            }
-          },
-          {
-            "id": "4c870ceb48fdb218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research-Optimization using meta heuristic algorithm/OpenDss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OpenDss"
-            }
-          },
-          {
-            "id": "5215f99d1f915e58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIsco.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CIsco"
-            }
-          },
-          {
-            "id": "eeb8213f2004292c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Labex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Labex"
-            }
-          },
-          {
-            "id": "56ac05f55f3af843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "48ea9bc709a7eae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research-Optimization using meta heuristic algorithm/Draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Draft"
-            }
-          },
-          {
-            "id": "9028d7b245be6135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA_1/CIsco.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CIsco"
+              "title": "New tab"
             }
           },
           {
@@ -172,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -330,11 +242,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "fe19176b27a1d69a",
+  "active": "29c5720a0af22b89",
   "lastOpenFiles": [
-    "Pasted image 20251008105659.png",
     "CCNA_1/CIsco.md",
+    "Research-Optimization using meta heuristic algorithm/Draft.md",
+    "Welcome.md",
+    "Linux/Labex.md",
+    "Research-Optimization using meta heuristic algorithm/OpenDss.md",
     "Module1-3(Basic network connectivity and communications).md",
+    "Pasted image 20251008105659.png",
     "CCNA_1/CCNA1.md",
     "CCNA_1",
     "ST_PL.md",
@@ -344,16 +260,12 @@
     "Research methodology.md",
     "WhatsApp Image 2025-09-29 at 10.53.47_432c5e8d.jpg",
     "Research-Optimization using meta heuristic algorithm/Needs to know.md",
-    "Research-Optimization using meta heuristic algorithm/Draft.md",
     "Screenshot 2025-09-27 222339.png",
     "OpenDSS basics.md",
-    "Welcome.md",
     "Udemy G1.md",
-    "Linux/Labex.md",
     "TryHackMe.md",
     "Screenshot 2025-09-26 100601.png",
     "Linux",
-    "Research-Optimization using meta heuristic algorithm/OpenDss.md",
     "Introduction to Data Science-.md",
     "Research-Optimization using meta heuristic algorithm"
   ]
