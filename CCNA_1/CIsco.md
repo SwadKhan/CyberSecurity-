@@ -115,3 +115,13 @@ Module 2(Assessment)-
 3. User EXEC mode access through the console port is enabled with the login command entered in line mode. For example: Switch(config-line)# **login**.  
 4. The **service password-encryption** command entered in global configuration mode will encrypt all plaintext passwords.  
 5. The command to set a banner stating "Keep out" that will be displayed when connection to a Cisco switch is Switch(config)# **banner motd $ Keep out $**
+
+
+3.2.4 Check Your Understanding - Protocols
+1. BGP and OSPF are routing protocols. They enable routers to exchange route information to reach remote networks.
+2. Service discovery protocols, such as DNS and DHCP enable automatic detection of service. DHCP is used to discover services for automatic IP address allocation and DNS for name-to-IP address resolution services.
+3. Sequencing uniquely identifies or labels each transmitted segment with a sequence number that is used by the receiver to reassemble the segments in the proper order.
+4. Transmission Control Protocol (TCP) manages the conversation between end devices and guarantees the reliable delivery of information.
+
+
+![[Pasted image 20251010171037.png]]
