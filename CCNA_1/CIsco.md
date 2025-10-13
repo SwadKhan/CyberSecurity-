@@ -125,3 +125,20 @@ Module 2(Assessment)-
 
 
 ![[Pasted image 20251010171037.png]]
+
+
+3.3.6 Check Your Understanding - Protocol Suites
+
+1. TCP and UDP are both transport layer protocols.
+2. DHCP and DNS are both application layer protocols.
+3. Ethernet is a network access layer protocol.
+4. ICMPv4 and ICMPv6 provide feedback when errors occur.
+5. Data is de-encapsulated so the next layer to receive the data would be the internet layer.
+6. IP (Internet Protocol), ICMP (Messaging), and Routing Protocols are services provided at the Internet Layer
+
+
+3.4.5 Check Your Understanding - Standards Organizations
+1. The correct answer is True. Most standards organizations are vendor-neutral, non-profit organizations that develop and promote open standards.
+2. The IETF develops and maintains the specifications for new protocols and updates to existing protocols through published documents called Request for Comments (RFCs).
+3. IANA is responsible for overseeing and managing IP address allocation, domain name management, and protocol identifiers for ICANN.
+4. The Electronics Industries Alliance (EIA) develops standards related to electrical wiring, connectors, and network equipment racks.
