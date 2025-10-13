@@ -142,3 +142,27 @@ Module 2(Assessment)-
 2. The IETF develops and maintains the specifications for new protocols and updates to existing protocols through published documents called Request for Comments (RFCs).
 3. IANA is responsible for overseeing and managing IP address allocation, domain name management, and protocol identifiers for ICANN.
 4. The Electronics Industries Alliance (EIA) develops standards related to electrical wiring, connectors, and network equipment racks.
+
+
+3.6.6 Check Your Understanding - Data Encapsulation
+  
+1. Segmentation is the process of dividing a large data stream into smaller pieces which are then transmitted to the receiver.  
+2. The transport layer PDU is known as a segment.  
+3. The data link layer encapsulates data into a frame.  
+4. As data moves down the protocol stack, protocol data is added to the original data. This process is known as encapsulation.
+
+
+Question 6
+True or False? Data Link addresses are physical so they never change in the data link frame from source to destination.
+
+
+3.7.11 Check Your Understanding - Data Access
+
+1. The correct answer is True. When two devices are on different IP networks, frames cannot be sent directly to the receiver since it is on a different logical network. The frames must first be forwarded to a default gateway (router).
+2. The correct answer is False. It is the left-most portion of an IP address that identifies the network. The right-most portion is used to identify the specific device or interface.
+3. It is the subnet mask used in IPv4 that is used to determine the network portion of an IPv4 address.
+4. MAC addresses are physical addresses and 48 bits or 12 hex digits in length. IPv4 addresses and IPv6 addresses are logical. IPv4 addresses are 32 bits and IPv6 addresses are 128 bits.
+5. The data link frame addressing consists of a destination and source MAC address in that order.
+6. The correct answer is False. Data link addresses change within the data link frame when the receiving device is not on the same network.
+
+
