@@ -166,3 +166,9 @@ True or False? Data Link addresses are physical so they never change in the data
 6. The correct answer is False. Data link addresses change within the data link frame when the receiving device is not on the same network.
 
 
+4.1.3 Check Your Understanding - Purpose of the Physical Layer
+
+1. The correct answer is False. The physical layer provides the means to transport bits over the network whether the network is wired or wireless.
+2. The correct answer is False. When encoded, the bits making up a frame are transmitted over the media one at a time.
+3. The physical layer receives frames from the data-link layer and converts it to bits for transmission. On the sending device the physical layer passes the transmitted bits up to the data link layer as a complete frame.
+4. The physical layer receives frames from the data link layer for encoding and transmissio
