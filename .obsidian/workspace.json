@@ -33,12 +33,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA_1/CIsco.md",
+                "file": "Research-Optimization using meta heuristic algorithm/Changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIsco"
+              "title": "Changes"
+            }
+          },
+          {
+            "id": "75938ab4dc836245",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           },
           {
@@ -84,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,29 +253,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "29c5720a0af22b89",
+  "active": "75938ab4dc836245",
   "lastOpenFiles": [
+    "Research-Optimization using meta heuristic algorithm/Voltage vs TAP.md",
+    "Research-Optimization using meta heuristic algorithm/Test Code in vs code for 123 bus.md",
+    "Research-Optimization using meta heuristic algorithm/OpenDss.md",
+    "Research-Optimization using meta heuristic algorithm/Draft.md",
+    "Research-Optimization using meta heuristic algorithm/Needs to know.md",
+    "Research-Optimization using meta heuristic algorithm/Changes.md",
+    "OpenDSS basics.md",
+    "CCNA_1/CIsco.md",
     "Pasted image 20251010171037.png",
     "Pasted image 20251010171034.png",
     "Research methodology.md",
-    "Research-Optimization using meta heuristic algorithm/Voltage vs TAP.md",
     "Regulator_Tap_Positions.png",
-    "Research-Optimization using meta heuristic algorithm/Changes.md",
     "Figure_2_tap_positions.png",
     "Figure_1_no_regulators.png",
     "Figure_1.png",
     "CCNA_1/CCNA1.md",
-    "Research-Optimization using meta heuristic algorithm/Test Code in vs code for 123 bus.md",
     "Untitled 1",
-    "Research-Optimization using meta heuristic algorithm/Draft.md",
     "Intro to data_Science/9.10.2025.md",
-    "CCNA_1/CIsco.md",
     "Intro to data_Science/Untitled 1",
     "Untitled",
     "Intro to data_Science",
     "Welcome.md",
     "Linux/Labex.md",
-    "Research-Optimization using meta heuristic algorithm/OpenDss.md",
     "Module1-3(Basic network connectivity and communications).md",
     "Pasted image 20251008105659.png",
     "CCNA_1",
@@ -272,12 +286,9 @@
     "10.03.25",
     "Pasted image 20251003114624.png",
     "WhatsApp Image 2025-09-29 at 10.53.47_432c5e8d.jpg",
-    "Research-Optimization using meta heuristic algorithm/Needs to know.md",
     "Screenshot 2025-09-27 222339.png",
-    "OpenDSS basics.md",
     "Udemy G1.md",
     "TryHackMe.md",
-    "Screenshot 2025-09-26 100601.png",
     "Linux",
     "Introduction to Data Science-.md",
     "Research-Optimization using meta heuristic algorithm"
