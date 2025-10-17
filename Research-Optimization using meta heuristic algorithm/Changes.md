@@ -220,3 +220,11 @@ Closer regulators → 120 V target (keep it nominal)
 Farther regulators → 122 – 124 V (slightly boost to offset downstream voltage drops)
 
 That’s why you see variation — it’s intentional, not an error.
+
+🧩 Why this works
+
+Each RegControl is tied to one Transformer.
+
+The transformer’s taps define the actual mechanical tap range.
+
+The RegControl only adjusts within that transformer’s tap range.

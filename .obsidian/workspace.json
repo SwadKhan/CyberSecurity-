@@ -45,12 +45,28 @@
             "id": "75938ab4dc836245",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "CCNA_1/CIsco.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "CIsco"
+            }
+          },
+          {
+            "id": "b78f0c8238a3be8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA_1/Lab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab"
             }
           },
           {
@@ -96,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,16 +269,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "75938ab4dc836245",
+  "active": "b78f0c8238a3be8e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "CCNA_1/Lab.md",
+    "CCNA_1/CIsco.md",
+    "Research-Optimization using meta heuristic algorithm/Changes.md",
     "Research-Optimization using meta heuristic algorithm/Voltage vs TAP.md",
     "Research-Optimization using meta heuristic algorithm/Test Code in vs code for 123 bus.md",
     "Research-Optimization using meta heuristic algorithm/OpenDss.md",
-    "Research-Optimization using meta heuristic algorithm/Draft.md",
     "Research-Optimization using meta heuristic algorithm/Needs to know.md",
-    "Research-Optimization using meta heuristic algorithm/Changes.md",
+    "Research-Optimization using meta heuristic algorithm/Draft.md",
     "OpenDSS basics.md",
-    "CCNA_1/CIsco.md",
     "Pasted image 20251010171037.png",
     "Pasted image 20251010171034.png",
     "Research methodology.md",
