@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA_1/Lab.md",
+                "file": "Intro to data_Science/9.10.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab"
+              "title": "9.10.2025"
             }
           },
           {
@@ -269,10 +269,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b78f0c8238a3be8e",
+  "active": "3cbd072065a04077",
   "lastOpenFiles": [
-    "Untitled.md",
     "CCNA_1/Lab.md",
+    "Untitled.md",
     "CCNA_1/CIsco.md",
     "Research-Optimization using meta heuristic algorithm/Changes.md",
     "Research-Optimization using meta heuristic algorithm/Voltage vs TAP.md",
