@@ -28,3 +28,4 @@ It is sometimes referred as a getaway of last resort.
 
 ![[Pasted image 20251022195355.png]]
 
+default static routing to go the internet(like a analogy). it is configured on the edge router like the gateway .
