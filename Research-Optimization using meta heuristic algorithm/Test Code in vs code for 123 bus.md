@@ -17,7 +17,7 @@ Let’s break down exactly what you’re seeing in the graph and what it tells y
         
     - **Orange:** Phase 2
         
-    - **Green:** Phase 3
+    - **Green:** Phase 3 
         
 
 The data came from:
