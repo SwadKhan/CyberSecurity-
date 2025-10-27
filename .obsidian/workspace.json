@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research-Optimization using meta heuristic algorithm/summary-till now.md",
+                "file": "Research-Optimization using meta heuristic algorithm/10.27.2025/Final thoughts-(Severe2.py).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "summary-till now"
+              "title": "Final thoughts-(Severe2.py)"
             }
           },
           {
@@ -272,18 +272,27 @@
   "active": "b78f0c8238a3be8e",
   "lastOpenFiles": [
     "Research-Optimization using meta heuristic algorithm/Test Code in vs code for 123 bus.md",
+    "Research-Optimization using meta heuristic algorithm/10.27.2025/Voltage vs TAP.md",
+    "Research-Optimization using meta heuristic algorithm/Changes.md",
     "Research-Optimization using meta heuristic algorithm/summary-till now.md",
     "Research-Optimization using meta heuristic algorithm/OpenDss.md",
-    "Research-Optimization using meta heuristic algorithm/Voltage vs TAP.md",
     "Research-Optimization using meta heuristic algorithm/Needs to know.md",
     "Research-Optimization using meta heuristic algorithm/Draft.md",
-    "Research-Optimization using meta heuristic algorithm/Changes.md",
+    "Research-Optimization using meta heuristic algorithm/10.27.2025/voltage regulation optimizer-by specific node.md",
+    "Figure_4.png",
+    "Research-Optimization using meta heuristic algorithm/10.27.2025/Final thoughts-(Severe2.py).md",
+    "Research-Optimization using meta heuristic algorithm/10.27.2025/python_optimize_regulator_harmony.md",
+    "Research-Optimization using meta heuristic algorithm/10.27.2025/optimize_regulators_threepane_phaseplotsUntitled.md",
+    "Figure_3.png",
+    "Research-Optimization using meta heuristic algorithm/10.27.2025",
+    "voltage distribution.png",
+    "Figure_1 1.png",
+    "operating System/10.24.2025.md",
     "TryHackme/Linux Fundamentals.md",
     "TryHackMe.md",
     "TryHackme",
     "CCNA2/Module 14.md",
     "CCNA_1/CCNA1.md",
-    "operating System/10.24.2025.md",
     "operating System",
     "Pasted image 20251022195355.png",
     "10.20.2025(Operating systems).md",
@@ -299,22 +308,13 @@
     "Regulator_Tap_Positions.png",
     "Figure_2_tap_positions.png",
     "Figure_1_no_regulators.png",
-    "Figure_1.png",
     "Intro to data_Science/Untitled 1",
     "Untitled",
     "Intro to data_Science",
     "Welcome.md",
     "Linux/Labex.md",
-    "Module1-3(Basic network connectivity and communications).md",
-    "Pasted image 20251008105659.png",
     "CCNA_1",
-    "ST_PL.md",
     "10.03.25",
-    "Pasted image 20251003114624.png",
-    "WhatsApp Image 2025-09-29 at 10.53.47_432c5e8d.jpg",
-    "Udemy G1.md",
-    "Linux",
-    "Introduction to Data Science-.md",
-    "Research-Optimization using meta heuristic algorithm"
+    "Linux"
   ]
 }
