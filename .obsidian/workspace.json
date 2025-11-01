@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA2/Module 15.md",
+                "file": "Research-Optimization using meta heuristic algorithm/OpenDss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 15"
+              "title": "OpenDss"
             }
           },
           {
@@ -285,18 +285,23 @@
   },
   "active": "fdc4e83f87b913a9",
   "lastOpenFiles": [
+    "RD learning/All papers Link.md",
+    "create a link.md",
+    "Research-Optimization using meta heuristic algorithm/10.27.2025/Voltage vs TAP.md",
+    "revised_1001_basvuru_formu_26mart2025_mie_oc en-US.pdf",
+    "OPENDSS_HELICS_plan.pdf",
+    "revised_1001_basvuru_formu_26mart2025_mie_oc.pdf",
+    "CCNA2/Module 15.md",
+    "RD learning",
     "Pasted image 20251029154038.png",
     "Pasted image 20251029142900.png",
     "Pasted image 20251029142630.png",
     "CCNA2/Module 14.md",
-    "CCNA2/Module 15.md",
     "Networking/28.10.2025.md",
     "Untitled.md",
     "Research-Optimization using meta heuristic algorithm/10.27.2025/Final thoughts-(Severe2.py).md",
-    "Untitled 1",
     "Networking",
     "Research-Optimization using meta heuristic algorithm/Test Code in vs code for 123 bus.md",
-    "Research-Optimization using meta heuristic algorithm/10.27.2025/Voltage vs TAP.md",
     "Research-Optimization using meta heuristic algorithm/Changes.md",
     "Research-Optimization using meta heuristic algorithm/summary-till now.md",
     "Research-Optimization using meta heuristic algorithm/OpenDss.md",
@@ -323,13 +328,8 @@
     "Intro to data_Science/9.10.2025.md",
     "CCNA_1/Lab.md",
     "CCNA_1/CIsco.md",
-    "OpenDSS basics.md",
     "Pasted image 20251010171037.png",
     "Pasted image 20251010171034.png",
-    "Regulator_Tap_Positions.png",
-    "Intro to data_Science/Untitled 1",
-    "Untitled",
-    "Intro to data_Science",
-    "CCNA_1"
+    "Intro to data_Science/Untitled 1"
   ]
 }
