@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to data_Science/11.03.2025.md",
+                "file": "Research-Optimization using meta heuristic algorithm/Literature review/Ways of Cyber Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.03.2025"
+              "title": "Ways of Cyber Attack"
             }
           },
           {
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6c124f354a21be97",
@@ -285,10 +286,12 @@
   },
   "active": "fdc4e83f87b913a9",
   "lastOpenFiles": [
+    "Intro to data_Science/11.03.2025.md",
+    "Research-Optimization using meta heuristic algorithm/Literature review/Ways of Cyber Attack.md",
+    "Research-Optimization using meta heuristic algorithm/Literature review",
     "Pasted image 20251103095409.png",
     "Pasted image 20251103095408.png",
     "Intro to data_Science/9.10.2025.md",
-    "Intro to data_Science/11.03.2025.md",
     "Figure_1_no_regulators.png",
     "Figure_1 1.png",
     "Figure_1.png",
@@ -318,7 +321,6 @@
     "Research-Optimization using meta heuristic algorithm/Needs to know.md",
     "Research-Optimization using meta heuristic algorithm/Draft.md",
     "Research-Optimization using meta heuristic algorithm/10.27.2025/voltage regulation optimizer-by specific node.md",
-    "Figure_4.png",
     "Research-Optimization using meta heuristic algorithm/10.27.2025/python_optimize_regulator_harmony.md",
     "Research-Optimization using meta heuristic algorithm/10.27.2025/optimize_regulators_threepane_phaseplotsUntitled.md",
     "Research-Optimization using meta heuristic algorithm/10.27.2025",
@@ -329,7 +331,6 @@
     "CCNA_1/CCNA1.md",
     "operating System",
     "10.20.2025(Operating systems).md",
-    "CCNA2",
-    "Intro to data_Science/Untitled 1"
+    "CCNA2"
   ]
 }
