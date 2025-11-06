@@ -56,3 +56,11 @@ H₀: μ_S − μ_L = 0; H₁: μ_S − μ_L ≠ 0.
 ---
 
 If you want, I can export a clean Word/PDF report with the tables, plots, and these write-ups formatted for submission.
+
+
+![[Pasted image 20251105224634.png]]
+
+
+![[Pasted image 20251105224728.png]]
+
+
