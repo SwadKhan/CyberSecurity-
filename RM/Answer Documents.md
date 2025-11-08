@@ -2,6 +2,25 @@ Here you go—complete, numbered answers based on your uploaded dataset.
 
 (SGS501-hw1_2025-1.pdf)
 
+![[Pasted image 20251108234352.png]]
+
+
+![[Pasted image 20251108234440.png]]
+
+
+![[Pasted image 20251108234517.png]]
+
+
+
+![[Pasted image 20251108234930.png]]
+
+
+
+
+
+![[Pasted image 20251108234716.png]]
+
+
 # A) Summary of the data (2019, 23 cities)
 
 - n = 23, mean = **179.52** L/(person·day), SD = **60.70**, median = **150**, min–max = **123–341**.  
@@ -10,6 +29,12 @@ Here you go—complete, numbered answers based on your uploaded dataset.
 - Visuals: distribution histogram and boxplots (H vs L; S vs L) are shown above.
 
 Normality checks (Shapiro–Wilk): overall **p=0.0011** (non-normal); H **p=0.385**, L **p=0.0377**; S **p=0.0678**, Land **p=0.0100**. With small samples, the t-tests below are generally robust, but this is noted.
+
+
+
+![[Pasted image 20251108235013.png]]
+
+
 
 # B) Test \( \mu = 165 \) L/(person·day) (two-sided)
 
@@ -25,11 +50,23 @@ H₀: μ = 165; H₁: μ ≠ 165.
 - **95% CI:** [**153.27**, **205.77**]  
 - **99% CI:** [**143.84**, **215.20**]
 
-5) Test result: \( t = 1.147 \), **p = 0.264** → **Fail to reject H₀**. The sample mean does not differ significantly from 165.
+1) Test result: \( t = 1.147 \), **p = 0.264** → **Fail to reject H₀**. The sample mean does not differ significantly from 165.
+
+
+
+![[Pasted image 20251108235111.png]]
+
 
 # C) Test \( \mu > 165 \) L/(person·day) (one-sided)
 
 - \( t = 1.147 \), **p(one-sided) = 0.132** → **Fail to reject H₀**. Insufficient evidence the mean is above 165.
+
+
+
+
+![[Pasted image 20251108235212.png]]
+
+
 
 # D) Sea vs Land (two independent means, 95% confidence)
 
@@ -42,6 +79,25 @@ H₀: μ_S − μ_L = 0; H₁: μ_S − μ_L ≠ 0.
 
 4) Result: \( \bar x_S = 198.18 \), \( \bar x_L = 162.42 \) → difference **35.77**.  
 \( t = 1.446 \), **df = 21**, **p = 0.163**; **95% CI for (S−L): [−15.67, 87.20]** → **No significant difference** between Sea and Land cities at 5%.
+
+
+
+
+
+![[Pasted image 20251108235319.png]]
+
+
+
+
+![[Pasted image 20251108235359.png]]
+
+
+
+
+![[Pasted image 20251108235452.png]]
+
+
+
 
 # E) High- vs Low-income cities (one-sided, 95% confidence; H > L)
 
