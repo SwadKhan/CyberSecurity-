@@ -87,12 +87,14 @@
             "id": "09c918a6f451780e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Networking/28.10.2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "28.10.2025"
             }
           },
           {
@@ -295,7 +297,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "09c918a6f451780e",
+  "active": "3cbd072065a04077",
   "lastOpenFiles": [
     "Pasted image 20251108235452.png",
     "Pasted image 20251108235359.png",
